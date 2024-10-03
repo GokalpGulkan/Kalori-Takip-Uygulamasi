@@ -1,0 +1,5 @@
+python -m PyQt5.uic.pyuic -x kalori.ui -o kalori.py  
+
+pyrcc5 resources.qrc -o resources_rc.py
+
+python -m PyQt5.uic.pyuic -x yemek_listesi.ui -o yemek_listesi.py  
