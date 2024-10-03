@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/arrow-down-sign-to-navigate.png</file>
+    <file>icons/arrow-up-sign-to-navigate.png</file>
+    <file>icons/breakfast.png</file>
+    <file>icons/calorie.png</file>
+    <file>icons/calories.png</file>
+    <file>icons/calories-burn.png</file>
+    <file>icons/calory.png</file>
+    <file>icons/candies.png</file>
+    <file>icons/check.png</file>
+    <file>icons/christmas-dinner.png</file>
+    <file>icons/danger.png</file>
+    <file>icons/delete-button.png</file>
+    <file>icons/exclamation-mark.png</file>
+    <file>icons/faceid.png</file>
+    <file>icons/fruit.ico</file>
+    <file>icons/fruit.png</file>
+    <file>icons/fruit-salad.png</file>
+    <file>icons/hide.png</file>
+    <file>icons/human.png</file>
+    <file>icons/left-align.png</file>
+    <file>icons/left-arrow.png</file>
+    <file>icons/lunch-time.png</file>
+    <file>icons/magnifying-glass.png</file>
+    <file>icons/man.png</file>
+    <file>icons/mathematical-basic-signs-of-plus-and-minus-with-a-slash.png</file>
+    <file>icons/meal.png</file>
+    <file>icons/meals.png</file>
+    <file>icons/moon.png</file>
+    <file>icons/plus_green.png</file>
+    <file>icons/recycle-bin.png</file>
+    <file>icons/salad.png</file>
+    <file>icons/setting.png</file>
+    <file>icons/sun.png</file>
+    <file>icons/user.png</file>
+    <file>icons/view.png</file>
+  </qresource>
+  <qresource prefix="fonts">
+    <file>font/NovaFlat-Regular.ttf</file>
+  </qresource>
+</RCC>
