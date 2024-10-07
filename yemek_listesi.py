@@ -109,12 +109,10 @@ class Ui_MainWindow(object):
         self.horizontalLayout_3 = QtWidgets.QHBoxLayout(self.frame_4)
         self.horizontalLayout_3.setObjectName("horizontalLayout_3")
         self.label_10 = QtWidgets.QLabel(self.frame_4)
-        self.label_10.setStyleSheet("QLabel{\n"
-"    font-size:12px;\n"
-"    font-weight:600\n"
-"    \n"
-"}\n"
-"")
+        font = QtGui.QFont()
+        font.setPointSize(9)
+        self.label_10.setFont(font)
+        self.label_10.setStyleSheet("")
         self.label_10.setObjectName("label_10")
         self.horizontalLayout_3.addWidget(self.label_10, 0, QtCore.Qt.AlignHCenter|QtCore.Qt.AlignTop)
         self.verticalLayout.addWidget(self.frame_4)
@@ -166,7 +164,7 @@ class Ui_MainWindow(object):
         self.verticalLayout_3.setObjectName("verticalLayout_3")
         self.label_4 = QtWidgets.QLabel(self.frame_8)
         font = QtGui.QFont()
-        font.setPointSize(-1)
+        font.setPointSize(70)
         font.setBold(True)
         font.setWeight(75)
         self.label_4.setFont(font)
