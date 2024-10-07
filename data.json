@@ -1,0 +1,572 @@
+{
+    "16-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [
+                "Anne Yoğurdu"
+            ],
+            "Miktar": [
+                100.0
+            ],
+            "Kalori": 64.0,
+            "Karbonhidrat": 4.0,
+            "Protein": 3.39,
+            "Yag": 3.52
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 64.0,
+            "Karbonhidrat": 4.0,
+            "Protein": 3.39,
+            "Yag": 3.52
+        }
+    },
+    "17-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Krema",
+                "Tam Buğday Unlu Ekmek",
+                "Yulaf ezmesi"
+            ],
+            "Miktar": [
+                100.0,
+                100.0,
+                100.0
+            ],
+            "Kalori": 798.0,
+            "Karbonhidrat": 98.1,
+            "Protein": 30.2,
+            "Yag": 28.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 798.0,
+            "Karbonhidrat": 98.1,
+            "Protein": 30.2,
+            "Yag": 28.0
+        }
+    },
+    "20-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Tam Buğday Unlu Ekmek"
+            ],
+            "Miktar": [
+                100.0
+            ],
+            "Kalori": 234.0,
+            "Karbonhidrat": 39.9,
+            "Protein": 11.0,
+            "Yag": 2.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 234.0,
+            "Karbonhidrat": 39.9,
+            "Protein": 11.0,
+            "Yag": 2.0
+        }
+    },
+    "22-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Erişte"
+            ],
+            "Miktar": [
+                100.0
+            ],
+            "Kalori": 348.5,
+            "Karbonhidrat": 72.8,
+            "Protein": 11.78,
+            "Yag": 1.13
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 348.5,
+            "Karbonhidrat": 72.8,
+            "Protein": 11.78,
+            "Yag": 1.13
+        }
+    },
+    "23-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        }
+    },
+    "25-07-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        }
+    },
+    "02-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Dondurulmuş Böğürtlen",
+                "Orta Boy Yumurta"
+            ],
+            "Miktar": [
+                100.0,
+                100.0
+            ],
+            "Kalori": 108.0,
+            "Karbonhidrat": 9.94,
+            "Protein": 6.94,
+            "Yag": 4.87
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 108.0,
+            "Karbonhidrat": 9.94,
+            "Protein": 6.94,
+            "Yag": 4.87
+        }
+    },
+    "05-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        }
+    },
+    "22-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        }
+    },
+    "23-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Dondurulmuş Böğürtlen",
+                "Az Yağlı Kıyma",
+                "Göğüs Tavuk "
+            ],
+            "Miktar": [
+                100.0,
+                100.0,
+                100.0
+            ],
+            "Kalori": 422.0,
+            "Karbonhidrat": 9.6,
+            "Protein": 50.03,
+            "Yag": 19.41
+        },
+        "Ogle": {
+            "Yemekler": [
+                "Erişte"
+            ],
+            "Miktar": [
+                100.0
+            ],
+            "Kalori": 348.5,
+            "Karbonhidrat": 72.8,
+            "Protein": 11.78,
+            "Yag": 1.13
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 770.5,
+            "Karbonhidrat": 82.4,
+            "Protein": 61.81,
+            "Yag": 20.54
+        }
+    },
+    "30-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [
+                "Göğüs Tavuk "
+            ],
+            "Miktar": [
+                100.0
+            ],
+            "Kalori": 110.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 23.09,
+            "Yag": 1.24
+        },
+        "Aksam": {
+            "Yemekler": [
+                "Az Yağlı Kıyma"
+            ],
+            "Miktar": [
+                1000.0
+            ],
+            "Kalori": 2690.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 255.4,
+            "Yag": 176.7
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 2800.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 278.49,
+            "Yag": 177.94
+        }
+    },
+    "31-08-2024": {
+        "Kahvalti": {
+            "Yemekler": [
+                "Göğüs Tavuk "
+            ],
+            "Miktar": [
+                1100.0
+            ],
+            "Kalori": 1210.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 253.99,
+            "Yag": 13.64
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": -0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": -0.01
+        },
+        "Toplam": {
+            "Kalori": 1210.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 253.99,
+            "Yag": 13.63
+        }
+    },
+    "01-09-2024": {
+        "Kahvalti": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ogle": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Aksam": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Ara": {
+            "Yemekler": [],
+            "Miktar": [],
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        },
+        "Toplam": {
+            "Kalori": 0.0,
+            "Karbonhidrat": 0.0,
+            "Protein": 0.0,
+            "Yag": 0.0
+        }
+    }
+}
